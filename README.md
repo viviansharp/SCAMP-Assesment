@@ -1,1 +1,2 @@
-# titanic_project
+SCAMP Assesment
+
